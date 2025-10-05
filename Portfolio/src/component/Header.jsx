@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <>
       <nav className="header d-flex justify-content-between align-items-center p-3 ">
-        <h4>Logo</h4>
+        <h4 className="logo">Sai Auto Coat Engineers</h4>
 
         <div className="nav-link">
           <Link to="/" className="m-4 font-semibold text-white">

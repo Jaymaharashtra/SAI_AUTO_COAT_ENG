@@ -9,19 +9,19 @@ const Payment = () =>{
         <div className="payment-row">
           <span className="label">Account Holder Name</span>
           <span className="colon">:</span>
-          <span className="value">M/s XYZ Industries</span>
+          <span className="value">M/s Sai Auto Coat Engineers</span>
         </div>
 
         <div className="payment-row">
           <span className="label">Bank Name</span>
           <span className="colon">:</span>
-          <span className="value">State Bank of India</span>
+          <span className="value">Lala Urban Co.Opp Bank Ltd.</span>
         </div>
 
         <div className="payment-row">
           <span className="label">Account Number</span>
           <span className="colon">:</span>
-          <span className="value">123456789012</span>
+          <span className="value">005002100001264</span>
         </div>
 
         <div className="payment-row">
@@ -33,19 +33,19 @@ const Payment = () =>{
         <div className="payment-row">
           <span className="label">IFSC Code</span>
           <span className="colon">:</span>
-          <span className="value">SBIN0001234</span>
+          <span className="value">HDFC0CLALAB</span>
         </div>
 
         <div className="payment-row">
           <span className="label">GST No</span>
           <span className="colon">:</span>
-          <span className="value">27ABCDE1234F1Z5</span>
+          <span className="value">27ADXPH5584QIZB</span>
         </div>
 
         <div className="payment-row">
           <span className="label">PAN No</span>
           <span className="colon">:</span>
-          <span className="value">ABCDE1234F</span>
+          <span className="value">ADXPH5584Q</span>
         </div>
       </div>
     </div>

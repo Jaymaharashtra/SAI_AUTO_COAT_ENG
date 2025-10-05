@@ -6,7 +6,7 @@ const Contact =() =>{
     const user = UserData();
     return(
       
-
+     
         user.map((ele)=>(
             <Founder 
             name ={ele.name}
@@ -16,6 +16,6 @@ const Contact =() =>{
             />
         ))
         
-    );
+                );
 }
 export default Contact;

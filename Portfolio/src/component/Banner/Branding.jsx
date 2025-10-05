@@ -1,10 +1,11 @@
 import React from "react";
+import banner from "/public/Mainbg.png"
 
 const Branding =() =>{
     return(
         <>
         
-        <img src="/public/Mainbg.png" alt="banner" />
+        <img src={banner} alt="banner" />
         </>
     );
 }
